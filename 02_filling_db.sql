@@ -5,6 +5,8 @@ VALUES ('Eric Matthes', datetime('now')),
 
 INSERT INTO publishers (name, country)
 VALUES ('O`Relly', 'New York'),
-       ('', ''),
-       ('', ''));
+       ('No Starch Press', 'Washington DC');
+
+
+
 
